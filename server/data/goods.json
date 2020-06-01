@@ -1,0 +1,85 @@
+[{
+    "id": "1001",
+    "name": "汉堡",
+    "image": "https://img.alicdn.com/imgextra/i3/2200736815010/O1CN01Eqz6jn1mscsowcabc_!!2200736815010.jpg_430x430q90.jpg",
+    "price": "15.8",
+    "type":"food"
+},
+{
+    "id": "1002",
+    "name": "炸鸡",
+    "image": "https://img.alicdn.com/imgextra/i2/3940956987/O1CN013elsSa21U5sALSD6M_!!3940956987.jpg_430x430q90.jpg",
+    "price": "19.8",
+    "type":"food"
+},
+{
+    "id": "1003",
+    "name": "披萨",
+    "image": "https://gd1.alicdn.com/imgextra/i1/3021044985/O1CN01N8x0u91mhAyZ518DK_!!3021044985.jpg",
+    "price": "35.8",
+    "type":"food"
+},
+{
+    "id": "1004",
+    "name": "牛排",
+    "image": "https://img.alicdn.com/imgextra/i4/1918385168/O1CN01gkjgw61o2zSxHCjCh_!!0-item_pic.jpg_430x430q90.jpg",
+    "price": "25.8",
+    "type":"food"
+},
+{
+    "id": "1005",
+    "name": "风扇",
+    "image": "https://gd2.alicdn.com/imgextra/i4/115727912/TB2T5fMuTlYBeNjSszcXXbwhFXa_!!115727912.jpg_400x400.jpg",
+    "price": "219",
+    "type":"electric"
+},
+{
+    "id": "1006",
+    "name": "吸尘器",
+    "image": "https://gd4.alicdn.com/imgextra/i3/40352359/O1CN01dfAdVI1TISu4m2Pl9_!!40352359.jpg",
+    "price": "1999",
+    "type":"electric"
+},
+{
+    "id": "1007",
+    "name": "料理机",
+    "image": "https://img.alicdn.com/imgextra/i4/2186515836/O1CN01H3nW4c1syw17bI3LP_!!2186515836.jpg_430x430q90.jpg",
+    "price": "9998",
+    "type":"electric"
+},
+{
+    "id": "1008",
+    "name": "电吹风",
+    "image": "https://gd4.alicdn.com/imgextra/i3/40352359/O1CN01nsIQ7D1TISuhl3Hll_!!40352359.jpg",
+    "price": "2399",
+    "type":"electric"
+},
+{
+    "id": "1009",
+    "name": "麻薯",
+    "image": "https://img.alicdn.com/imgextra/i1/123794032/O1CN011fehOrkE3ei65ZP_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+    "price": "2399",
+    "type":"food"
+},
+{
+    "id": "1010",
+    "name": "巧克力",
+    "image": "https://img.alicdn.com/imgextra/i2/67573417/O1CN01w6Ne311b71xUruyTf_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+    "price": "2399",
+    "type":"food"
+},
+{
+    "id": "1011",
+    "name": "T恤",
+    "image": "https://img.alicdn.com/imgextra/i4/406380134/O1CN01v3QT8Y1CrPfxMeMoo_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+    "price": "2399",
+    "type":"clothes"
+},
+{
+    "id": "1012",
+    "name": "T恤",
+    "image": "https://img.alicdn.com/imgextra/i1/1114520058/O1CN01bssW7R1CIbZkakaVk_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+    "price": "2399",
+    "type":"clothes"
+}
+]
